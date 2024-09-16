@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+
+.link:hover{
+    color: white;
+
+}
+.server{
+    width: 100%;
+    position: relative;
+    height: 400px;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQcWIs5o05hSDoH_YkTbfcT91GEWes-AEjA&s') no-repeat center center fixed ;
+    background-size: cover; /* Rasmni to‘liq o‘rash */
+    background-position: center; /* Rasm markazga joylashtiriladi */
+    background-repeat: no-repeat;
+}
